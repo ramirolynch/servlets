@@ -11,8 +11,11 @@ out.println("Password = " + password + "<br>");
  
 %>
 
+</h2>
 
 <hr>
+
+<h2>
 
 Server Name = <%=request.getServerName() %> <br>
 Server Port = <%=request.getServerPort() %> <br>
